@@ -46,6 +46,6 @@ spec:
     - protocol: TCP
       port: 27017
       targetPort: 27017
-      nodePort:
-  type: NodePort
+      nodePort:         # Added nodePort to verify
+  type: NodePort        # if mongodb is working.
     
