@@ -1,0 +1,6 @@
+# will run npm install 
+dev7495/react-frontend:v1
+
+
+# npm install not needed.
+dev7495/react-frontend-ni:v1
